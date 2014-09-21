@@ -1,0 +1,26 @@
+Rails?
+Instantiate Users with names
+Users can have Opinions
+Opinions come in pairs; users can have one of the pair
+Users are matched for chat with Users with opposing Opinions
+
+Node.js / Socket.io
+Moderation engine: choose a user to be Speaker first
+
+(see around 15:00 for a way to show one thing to the person typing the message)
+user1 - You are the Speaker. Please help User2 understand the way you see things. They should not agree, disagree, or make their own point. Their purpose is to express your perspective to your satisfaction.
+user2 - You are the Listener. Please try to understand the way User1 sees things. Please do not agree, disagree, or make your own point. Your goal is to really understand how they see it, and then express their perspective to their satisfaction.
+
+Buttons for user2 - Test if you understand their perspective fully
+
+Buttons for user1 - Yes/No
+
+Once you get a Yes, swap.
+
+Later, maybe
+Ask - How do you feel about people who hold the opposite opinion to you? before and after the chat.
+  -research the best way to ask and collect this data
+  -do A/B testing with different ways of moderating the chat?
+  
+  
+  
